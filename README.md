@@ -1,1 +1,1 @@
-# proyecto2
+# proyecto2 segundo ejercicio utilizando los comandos find
