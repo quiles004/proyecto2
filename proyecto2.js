@@ -8,3 +8,4 @@ db.inventory.insertMany([
    { item: "carta", qty: 45, size: { h: 10, w: 15.25, uom: "cm" }, status: "A" }
 ]);
 db.inventory.find({})
+db.inventory.find ({ status:{$eq: "A"}})
